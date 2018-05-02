@@ -1,0 +1,6 @@
+
+
+#todo-list li.completed label small {
+    text-decoration: none;
+    font-size: 12px;
+}
